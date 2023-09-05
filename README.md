@@ -63,4 +63,8 @@ Parte 2
 #git checkout main
 #git merge v0.2
 ![Alt text](image-7.png)
-#git merge v0.2
+#git merge v0.2  
+#git tag v0.2  
+#git branch -D v0.2
+#git log --pretty=oneline
+![Alt text](image-8.png)
