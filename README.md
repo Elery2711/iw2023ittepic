@@ -52,8 +52,15 @@ Parte 2
 #git branch  
 #git add *  
 #git commit  
-![Alt text](image-5.png)
-#git push --set-upstream origin v0.2
-![Alt text](image-6.png)
+![Alt text](image-5.png)  
+#git push --set-upstream origin v0.2  
+![Alt text](image-6.png)  
+#git checkout main  
+#git merge v0.2  
+#git commit -a -m "Hola"  
+#git checkout v0.2  
+#git commit -a -m "Adios"
 #git checkout main
+#git merge v0.2
+![Alt text](image-7.png)
 #git merge v0.2
