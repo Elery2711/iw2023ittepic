@@ -45,6 +45,12 @@ Parte 1
 |IvanRobles19       |https://github.com/IvanRobles19|
 |msalas18           |https://github.com/msalas18|
 |elVeector          |https://github.com/elVeector|
+#git push
 
 Parte 2  
 #git checkout -b v0.2  
+#git branch  
+#git add *  
+#git commit  
+![Alt text](image-5.png)
+#it push --set-upstream origin v0.2
