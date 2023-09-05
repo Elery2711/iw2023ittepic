@@ -53,4 +53,7 @@ Parte 2
 #git add *  
 #git commit  
 ![Alt text](image-5.png)
-#it push --set-upstream origin v0.2
+#git push --set-upstream origin v0.2
+![Alt text](image-6.png)
+#git checkout main
+#git merge v0.2
