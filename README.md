@@ -1,3 +1,4 @@
+Parte 1  
 ![Alt text](<Captura desde 2023-09-01 07-14-16.png>)  
 #git clone https://github.com/Elery2711/iw2023ittepic.git  
 #cd iw2023ittepic  
@@ -44,3 +45,6 @@
 |IvanRobles19       |https://github.com/IvanRobles19|
 |msalas18           |https://github.com/msalas18|
 |elVeector          |https://github.com/elVeector|
+
+Parte 2  
+#git checkout -b v0.2  
